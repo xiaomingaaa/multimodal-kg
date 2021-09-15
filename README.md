@@ -10,3 +10,5 @@
 + [Align before Fuse: Vision and Language Representation Learning with Momentum Distillation](https://arxiv.org/pdf/2107.07651.pdf)
 
 + [Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902.pdf)
+
++ [How powerful are graph neural networks](https://zhuanlan.zhihu.com/p/62006729)
