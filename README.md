@@ -12,3 +12,5 @@
 + [Graph Contrastive Learning with Augmentations](https://arxiv.org/pdf/2010.13902.pdf)
 
 + [How powerful are graph neural networks](https://zhuanlan.zhihu.com/p/62006729)
+
++ [Dual View Molecule Pre-training](https://arxiv.org/pdf/2106.10234.pdf)
